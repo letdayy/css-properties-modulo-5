@@ -1,4 +1,4 @@
-# css-properties-modulo-5
+<h1 align="center">css-properties-modulo-5</h1>
 
 Foi usado `npm init` para criar o package.json.
 
@@ -13,5 +13,5 @@ Utilizou-se as funções push() para colocar o conteúdo da string dentro do arr
 A função main() é utilizada para armazenar a função principal e irá rodar até que se digite algo além de "sim" na resposta.
 
 
-Exemplo do script funcionando no terminal:
-<img src="./images/cssPropsterminal" />
+Exemplo do script funcionando no terminal:<br>
+<p align="center"><img src="./images/cssPropsterminal.png" /></p>
